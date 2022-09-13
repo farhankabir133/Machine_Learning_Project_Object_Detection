@@ -2,7 +2,7 @@
 
 Steps to run this project:
 
-1. Download this project from github[git clone https://github.com/farhankabir133/Machine_Learning_Project_Object_Detection.git]
+1. Download this project from github{Type command}[git clone https://github.com/farhankabir133/Machine_Learning_Project_Object_Detection.git]
 2. Open in it Vscode
 3. Select that particular file which you want to run.
         (i) Deep_learning_object_detection/Image_detector[command locate in txt file]
